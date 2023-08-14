@@ -10,3 +10,4 @@ console.log(array.next().value);
 console.log(array.next().value);
 console.log(array.next().value);
 console.log(array.next().value);
+
